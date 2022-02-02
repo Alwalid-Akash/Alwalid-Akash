@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Alwalid-Akash
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Alwalid
+- 👀 I’m interested in learning new skill
+- 🌱 I’m currently learning about Data science
+- 💞️
+- 📫 How to reach me alwalidice@gmail.com
 
 <!---
 Alwalid-Akash/Alwalid-Akash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
