@@ -2,7 +2,7 @@
 - 👀 I'm a learner
 - 🌱I’m interested in learning new skills
 - 💞️  I’m currently learning about Data science
-- 📫 How to reach me alwalidice@gmail.com
+- 📫 How to reach me alwalidakash@gmail.com
 
 <!---
 Alwalid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
