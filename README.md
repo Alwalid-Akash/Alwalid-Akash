@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alwalid
 - 👀 I'm a learner
 - 🌱I’m interested in learning new skills
-- 💞️  I’m currently learning about Web development and Data science
+- 💞️  I’m currently learning about Web development 
 - 📫 How to reach me alwalidakash@gmail.com
 
 <!---
