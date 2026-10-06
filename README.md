@@ -17,7 +17,7 @@ JavaScript · React · Node.js · Express · MongoDB · Git · GitHub Actions ·
 Highlights:
 - **E-commerce Website**: online shop web app, deployed on Vercel with GitHub Actions CI/CD ([code](https://github.com/Alwalid-Akash/ecommers_website))
 - **German Traffic Accident Analytics System**: full-stack app with a Node.js/Express ETL backend
-- **Note Cleaner**: React/Vite + Express + MongoDB Atlas
+- **Note apps**: React/Vite + Express + MongoDB Atlas
 
 <!---
 Alwalid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
